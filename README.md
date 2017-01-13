@@ -2,8 +2,8 @@
 
 ## Table of Contents ##
 
-- [Setup & Build](##setup-&-build)
-- [License](##license)
+- [Setup & Build](#setup--build)
+- [License](#license)
 
 ## setup & build ##
 
