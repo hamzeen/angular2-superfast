@@ -1,5 +1,5 @@
 # a super fast Angular2 seed #
-performs tree-shaking & minification which reduces, the size of the bundle & improves page load time.
+performs tree-shaking & minification which reduces the size of the bundle & improves page load time.
 
 ## Table of Contents ##
 
