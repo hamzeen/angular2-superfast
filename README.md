@@ -8,7 +8,7 @@
 ## setup & build ##
 
 ```bash
-npm i
+npm install
 npm run build_prod
 npm run serve
 ```
