@@ -1,4 +1,5 @@
 # a super fast Angular2 seed #
+performs tree-shaking & minification which reduces, the size of the bundle & improves page load time.
 
 ## Table of Contents ##
 
@@ -13,7 +14,7 @@ npm run build_prod
 npm run serve
 ```
 
-Now open your browser at http://localhost:5557
+Now open your browser at <http://localhost:5557>
 
 >created on Friday, 13th Jan 2017
 
